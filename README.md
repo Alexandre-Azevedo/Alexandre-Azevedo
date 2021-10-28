@@ -27,4 +27,4 @@
 
 <h3 align="left"> :memo:&nbsp;Additional Information:</h3>
 ### 👁️ Profile Viewers Count
-[![Viewrs](https://badges.pufler.dev/visits/Alexandre-Azevedo/Alexandre-Azevedo)](https://badges.pufler.dev)
+![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=plastic)
