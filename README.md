@@ -28,5 +28,5 @@
 <h3 align="left"> :memo:&nbsp;Additional Information:</h3>
 ![](https://komarev.com/ghpvc/?username=Alexandre-Azevedo)
 
-![](https://komarev.com/ghpvc/?username=Alexandre-Azevedo&color=dc143c)
+![![](https://komarev.com/ghpvc/?username=Alexandre-Azevedo)](https://komarev.com/ghpvc/?username=Alexandre-Azevedo&color=dc143c)
 
