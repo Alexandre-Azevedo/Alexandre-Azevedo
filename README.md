@@ -26,4 +26,4 @@
   </p>
 
 <h3 align="left"> :memo:&nbsp;Additional Information:</h3>
-![](https://img.shields.io/static/v1?label=PROFILE+VIEWS&message=1234567890&color=007ec6)
+[![](https://img.shields.io/static/v1?label=PROFILE+VIEWS&message=1234567890&color=007ec6)]
