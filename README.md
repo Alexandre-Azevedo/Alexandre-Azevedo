@@ -26,5 +26,4 @@
   </p>
 
 <h3 align="left"> :memo:&nbsp;Additional Information:</h3>
-### 👁️ Profile Viewers Count
-![](https://komarev.com/ghpvc/?username=Alexandre-Azevedo&label=PROFILE+VIEWS)
+![](https://img.shields.io/static/v1?label=PROFILE+VIEWS&message=1234567890&color=007ec6)
